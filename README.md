@@ -2,6 +2,9 @@
 ##### Statusbar for your AltisLife TanoaLife any life server that you want to implement a statusbar easily
 
 
+#### How it looks
+![How it looks](http://images.akamai.steamusercontent.com/ugc/106230834963763986/289D4753F7326524BE8AECC5765B70E3B9A081EC/)
+
 ## Tutorial
 
 1. Paste the files following the **structure**
